@@ -10,7 +10,7 @@ invented on Node for Dektop Application by Cheng Zhao
 ### USING ELECTRON 
 * Main Process (Application Life Cycle) creates (Render webpages) through ipc communication
 * Just write 
-``` npm install -g electron-prebuilt
+`` npm install -g electron-prebuilt
 electron .
 ```
   
