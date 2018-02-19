@@ -7,5 +7,10 @@ invented on Node for Dektop Application by Cheng Zhao
 * Automatic Update ( Using squirrel)
 * One Browser (Design once)
 * Three Platform (Window,Mac, Linux)]
-
+### USING ELECTRON 
+* Main Process (Application Life Cycle) creates (Render webpages) through ipc communication
+* Just write 
+``` npm install -g electron-prebuilt
+electron .
+```
   
