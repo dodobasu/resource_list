@@ -27,6 +27,6 @@ electron .
 10. https://github.com/maxogden/electron-packager
 
 # FREE VIDEO TUTORIAL
-1. ONLINE VIDEO TUTORIAL https://www.bitdegree.org
+1. BitDegree :  https://www.bitdegree.org
 
   
