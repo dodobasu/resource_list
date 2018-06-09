@@ -26,6 +26,7 @@ electron .
 9. https://github.com/mafintosh/playback
 10. https://github.com/maxogden/electron-packager
 
-
+# FREE VIDEO TUTORIAL
+1. [ONLINE VIDEO TUTORIAL]https://www.bitdegree.org
 
   
